@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/age-17-blue.svg">
+<img src="https://img.shields.io/badge/age-17-red.svg">
 <div style="display:flex;; justify-content:space-between;">
 
 <img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
