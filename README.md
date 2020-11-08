@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-<div style="display:flex; width 500px; justify-content:space-between;">
+<div style="display:flex;; justify-content:space-between;">
 
 <img src="https://img.shields.io/badge/PHP-ccc.svg?logo=php&style=flat">
 <img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat">
 <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
 <img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
+<img src="https://img.shields.io/badge/-intellij%20IDEA-000.svg?logo=intellij-idea&style=flatimg">
+<img src="https://img.shields.io/badge/-Laravel-FFFFFF.svg?logo=laravel&style=flat">
 </div>
 <!--
 **Ichigo-dev/Ichigo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
