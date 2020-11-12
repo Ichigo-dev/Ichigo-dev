@@ -1,10 +1,10 @@
-### Hi there 👋
+### 👋 Hi there 
 <img src="https://img.shields.io/badge/age-17-red.svg">
 <div style="display:flex;; justify-content:space-between;">
 
-<img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
+<img src="https://img.shields.io/badge/-HTML5-orange.svg?logo=html5&style=flat">
 <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
-<img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat">
+<img src="https://img.shields.io/badge/Javascript-green.svg?logo=javascript&style=flat">
 <img src="https://img.shields.io/badge/PHP-ccc.svg?logo=php&style=flat">
 <img src="https://img.shields.io/badge/-WordPress-333333.svg?logo=wordpress&style=flat">
 <img src="https://img.shields.io/badge/-Laravel-FFFFFF.svg?logo=laravel&style=flat">
