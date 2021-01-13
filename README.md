@@ -1,26 +1,2 @@
-### 👋 Hi there 
-<img src="https://img.shields.io/badge/age-17-red.svg">
-<div style="display:flex;; justify-content:space-between;">
-
-<img src="https://img.shields.io/badge/-HTML5-orange.svg?logo=html5&style=flat">
-<img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
-<img src="https://img.shields.io/badge/Javascript-green.svg?logo=javascript&style=flat">
-<img src="https://img.shields.io/badge/PHP-ccc.svg?logo=php&style=flat">
-<img src="https://img.shields.io/badge/-WordPress-333333.svg?logo=wordpress&style=flat">
-<img src="https://img.shields.io/badge/-Laravel-FFFFFF.svg?logo=laravel&style=flat">
-<img src="https://img.shields.io/badge/-intellij%20IDEA-000.svg?logo=intellij-idea&style=flatimg">
-</div>
-<!--
-**Ichigo-dev/Ichigo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👋 Hi there, I'm Japanese Student.
+[![](https://raw.githubusercontent.com/Ichigo-dev/Ichigo-dev/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
